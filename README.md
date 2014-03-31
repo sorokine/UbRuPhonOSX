@@ -14,16 +14,16 @@ This layout is based on Ubuntu keyboard *Russian (phonetic Winkeys)*.
 Where?
 ------
 
-Place the `Russian-Phonetic-Linux.keylayout` file into `~/Library/Keyboard Layouts/`
+Place the `Russian-Phonetic-Linux.keylayout` file into `~/Library/Keyboard Layouts/`:
 
 ```
 cp Russian-Phonetic-Linux.keylayout ~/Library/Keyboard\ Layouts/
 ```
 
 and logout and login back.  Then go to System Preferences->Keyboard->Input Sources
-and checkmark input source called `Russian-Phonetic-Linux_`.
+and checkmark input source called `Russian-Phonetic-Linux`.
 
 How?
 ----
 
-This keyboard layour was created using http://scripts.sil.org/ukelele
+Created with http://scripts.sil.org/ukelele
